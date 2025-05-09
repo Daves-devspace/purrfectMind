@@ -6,8 +6,8 @@ PurrfectMind is a beautifully designed and responsive website that promotes ment
 
 ## 🌐 Live Demo
 
-> [🌍 View Website](https://your-live-link.com)  
-> _(Replace with your actual deployment URL)_
+> [🌍 View Website]([https://daves-devspace.github.io/purrfectMind])  
+
 
 ---
 
@@ -57,7 +57,7 @@ PurrfectMind is a beautifully designed and responsive website that promotes ment
 ## 📦 Installation & Usage
 
 ```bash
-git clone https://github.com/yourusername/purrfectmind.git
+git clone [[https://github.com/Daves-devspace/purrfectMind]]
 cd purrfectmind
 open index.html
 Or simply open the index.html in your browser.
@@ -68,7 +68,7 @@ This project is licensed under the MIT License.
 💌 Contact
 If you’d like to collaborate or learn more:
 
-Email: your-email@example.com
-Website: https://yourportfolio.com
+Email: dmdeveloper255@gmail.com
+
 
 PurrfectMind was created to bring peace and support to those who need it – one conversation at a time.
